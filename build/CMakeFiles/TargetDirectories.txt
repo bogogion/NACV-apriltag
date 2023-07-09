@@ -1,0 +1,8 @@
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/apriltag.dir
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/apriltag_python.dir
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/edit_cache.dir
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/rebuild_cache.dir
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/list_install_components.dir
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/install.dir
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/install/local.dir
+/home/zane/apriltag_accelerated/apriltag-3.2.0/build/CMakeFiles/install/strip.dir
