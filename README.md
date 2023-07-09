@@ -1,9 +1,11 @@
-ALL CREDITS GO TO THE ORIGINAL APRILTAG DEVELOPERS
+<h1 align="center">ALL CREDITS GO TO THE ORIGINAL APRILTAG DEVELOPERS</h1>
 
 Small changes made:
 
 * Added in-detector filtering and maximum amount of tags
 * Creation of decimated image buffer is now responsibility of client application (to avoid large malloc and memcpy in image_u8 copy)
+
+For use with [NACV](https://github.com/bogogion/NACV)
 
 AprilTag 3
 ==========
