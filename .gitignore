@@ -1,0 +1,9 @@
+*.a
+*so*
+*.o
+*.d
+
+apriltag_demo
+example/*
+build/*
+CMakeCache.txt
